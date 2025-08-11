@@ -10,7 +10,7 @@ const App = () => {
   console.log(data)
   return (
     <div>
-      <div> This is App</div>
+      <div> This is App {data}</div>
       <Header />
       <Section />
       <Footer />
