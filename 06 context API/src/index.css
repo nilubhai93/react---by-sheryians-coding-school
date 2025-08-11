@@ -1,0 +1,19 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h1{
+  text-decoration: underline;
+  font:  70px;
+  font-weight: 600;
+  font-size: xx-large;
+}
